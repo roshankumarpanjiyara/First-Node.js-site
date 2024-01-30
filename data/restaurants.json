@@ -1,0 +1,26 @@
+[
+    {
+        "id": "r1",
+        "name": "Test",
+        "address": "Test street",
+        "cuisine": "Indian",
+        "website": "https://test.com",
+        "description": "It's awesome!"
+    },
+    {
+        "id": "r2",
+        "name": "Test 2",
+        "address": "Test2 street",
+        "cuisine": "Punjabi",
+        "website": "https://test2.com",
+        "description": "Good!"
+    },
+    {
+        "name": "Arshalan",
+        "address": "B.T. Road",
+        "cuisine": "Indian",
+        "website": "https://test3.com",
+        "description": "Best!",
+        "id": "02b92b7b-ebdf-478e-98b9-d491ec7cf40c"
+    }
+]
